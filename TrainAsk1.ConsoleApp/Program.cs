@@ -16,6 +16,7 @@ class Program
             {
                 if (entityCounter > 0)
                 {
+                    //TODO: Better 
                     System.Console.WriteLine("");
                     file.WriteLine("");
                 }
