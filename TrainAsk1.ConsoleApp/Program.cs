@@ -1,4 +1,4 @@
-namespace ConsoleApp1;
+namespace TrainAsk1.ConsoleApp;
 
 class Program
 {
